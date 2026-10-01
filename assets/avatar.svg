@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="Official Judiciary Counsel Seal - Joseph Michael Conway">
+  <!-- Outer official judicial docket border -->
+  <rect x="2" y="2" width="92" height="92" fill="#0f2942" stroke="#d4af37" stroke-width="2" />
+  <rect x="6" y="6" width="84" height="84" fill="none" stroke="#d4af37" stroke-width="0.75" />
+  <!-- Monogram JC and official judicial emblem -->
+  <text x="48" y="38" font-family="Georgia, Cambria, 'Times New Roman', serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">JC</text>
+  <!-- Judicial Scales of Justice motif -->
+  <path d="M48 44v34M40 78h16" stroke="#d4af37" stroke-width="1.5" stroke-linecap="square" />
+  <path d="M30 50h36" stroke="#d4af37" stroke-width="1.5" stroke-linecap="square" />
+  <!-- Left pan -->
+  <path d="M30 50l-8 12h16z" fill="none" stroke="#d4af37" stroke-width="1.2" stroke-linejoin="miter" />
+  <!-- Right pan -->
+  <path d="M66 50l-8 12h16z" fill="none" stroke="#d4af37" stroke-width="1.2" stroke-linejoin="miter" />
+</svg>
